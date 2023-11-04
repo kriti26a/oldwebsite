@@ -1,0 +1,42 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kriti26a.com" resolutions="1x" timestamp="1699092221091">
+  <folder name="css">
+    <file name="site_global.css" crc="428781594"/>
+    <file name="master_a-master.css" crc="3871101357" ref="index:teaching:research"/>
+    <file name="index.css" crc="131726538" ref="index"/>
+    <file name="teaching.css" crc="18242035" ref="teaching"/>
+    <file name="research.css" crc="413806017" ref="research"/>
+  </folder>
+  <folder name="assets">
+    <file name="github.png" crc="284024171" seo="true" mt="1698760158000"/>
+    <file name="1.html" crc="76656599" seo="true" mt="1698772495000"/>
+    <file name="kriti_arora_cv.pdf" crc="9974390" seo="true" mt="1699041159000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:teaching:research"/>
+    <file name="museutils.js" crc="3939489907" ref="index:teaching:research"/>
+    <file name="whatinput.js" crc="86476730" ref="index:teaching:research"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:teaching:research"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:teaching:research"/>
+    <file name="require.js" crc="4177726516" ref="index:teaching:research"/>
+  </folder>
+  <folder name="images">
+    <file name="kriti_newsletter.jpg" crc="177050145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email-svgrepo-com.svg" crc="4177976316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email-svgrepo-com_poster_.png" crc="4270808893" ref="index"/>
+    <file name="linkedin-svgrepo-com.svg" crc="4028175863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-svgrepo-com_poster_.png" crc="283616300" ref="index"/>
+    <file name="github-svgrepo-com.svg" crc="19513662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="github-svgrepo-com_poster_.png" crc="3827731195" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3796598788" seo="true" mt="1699090995737" redirect="true"/>
+  <file name="teaching.html" crc="3833526104" seo="true" mt="1699092183679" redirect="true"/>
+  <file name="research.html" crc="267566983" seo="true" mt="1699041466546" redirect="true"/>
+</manifest>
